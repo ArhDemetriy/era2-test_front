@@ -1,0 +1,1 @@
+// композиция экрана (provider + stats + toolbar + список)
